@@ -1,5 +1,8 @@
 # python_wordle
 
+Using Random-Word python module to generate random diction word. This is the only requirement to run this Jupyter notebook<br>
+https://pypi.org/project/Random-Word/
+
 # Rules
 #### There is a 5 letter dictionary word generated on random every time
 #### You are provided 6 tries to guess the word
